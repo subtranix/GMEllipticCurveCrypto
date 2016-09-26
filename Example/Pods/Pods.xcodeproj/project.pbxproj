@@ -15,9 +15,9 @@
 		6A798E7AE3DEDA98AA2001825DA3D54C /* Pods-GMEllipticCurveCrypto_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = CB8E7B397AF6EF734762305A539094D1 /* Pods-GMEllipticCurveCrypto_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		71204E3F78B7D09B230745CAB4938940 /* GMEllipticCurveCrypto-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = BA794137597E4D234E58BF2835BF5846 /* GMEllipticCurveCrypto-dummy.m */; };
 		9253DBFEC349390ACB92AF63686530BA /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */; };
-		97776AB21C90541600700D36 /* GMEllipticCurveCrypto.h in Headers */ = {isa = PBXBuildFile; fileRef = 97776AAE1C90541600700D36 /* GMEllipticCurveCrypto.h */; };
+		97776AB21C90541600700D36 /* GMEllipticCurveCrypto.h in Headers */ = {isa = PBXBuildFile; fileRef = 97776AAE1C90541600700D36 /* GMEllipticCurveCrypto.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		97776AB31C90541600700D36 /* GMEllipticCurveCrypto.m in Sources */ = {isa = PBXBuildFile; fileRef = 97776AAF1C90541600700D36 /* GMEllipticCurveCrypto.m */; };
-		97776AB41C90541600700D36 /* GMEllipticCurveCrypto+hash.h in Headers */ = {isa = PBXBuildFile; fileRef = 97776AB01C90541600700D36 /* GMEllipticCurveCrypto+hash.h */; };
+		97776AB41C90541600700D36 /* GMEllipticCurveCrypto+hash.h in Headers */ = {isa = PBXBuildFile; fileRef = 97776AB01C90541600700D36 /* GMEllipticCurveCrypto+hash.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		97776AB51C90541600700D36 /* GMEllipticCurveCrypto+hash.m in Sources */ = {isa = PBXBuildFile; fileRef = 97776AB11C90541600700D36 /* GMEllipticCurveCrypto+hash.m */; };
 		B2F8B27A83A488271103F8D2E71DE816 /* Pods-GMEllipticCurveCrypto_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B4F4827FB594F649E5A69E0AC7A6CA14 /* Pods-GMEllipticCurveCrypto_Example-dummy.m */; };
 		D64981921FEECBB5ED7F493B72B053DB /* GMEllipticCurveCrypto.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 1A8F561DC7092439576BEDC95084E726 /* GMEllipticCurveCrypto.bundle */; };
