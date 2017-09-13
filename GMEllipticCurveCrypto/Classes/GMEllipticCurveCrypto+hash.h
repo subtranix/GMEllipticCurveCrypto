@@ -31,7 +31,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import "GMEllipticCurveCrypto.h"
+#import "GMEllipticCurveCrypto+Class.h"
 
 @interface GMEllipticCurveCrypto (hash)
 

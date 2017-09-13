@@ -30,7 +30,7 @@
 //
 
 
-#import "GMEllipticCurveCrypto.h"
+#import "GMEllipticCurveCrypto+Class.h"
 
 /** Easy ecc - Relevant parts of ecc.c
  *

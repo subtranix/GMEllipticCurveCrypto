@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = "GMEllipticCurveCrypto"
   s.summary          = "An Objective-C library for Elliptic Curve Digital Signing Algorithm (ECDSA) and for Elliptic Curve Diffie-Hellman (ECDH)."
-  s.version          = "1.3"
+  s.version          = "1.3.1"
   s.homepage         = "https://github.com/ankitthakur/GMEllipticCurveCrypto"
   s.license          = 'BSD 2-Clause License'
   s.author           = { "Ankit Thakur" => "ankitthakur85@icloud.com" }
@@ -15,5 +15,5 @@ Pod::Spec.new do |s|
   s.watchos.deployment_target = '2.0'
 
   s.requires_arc = true
-  s.source_files = 'Pod/Classes/**/*'
+  s.source_files = 'GMEllipticCurveCrypto/Classes/**/*'
 end
